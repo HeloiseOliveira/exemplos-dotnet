@@ -1,0 +1,15 @@
+C:\projetos-dio\exemplos-dotnet\bin\Debug\net6.0\exemplos-dotnet.exe
+C:\projetos-dio\exemplos-dotnet\bin\Debug\net6.0\exemplos-dotnet.deps.json
+C:\projetos-dio\exemplos-dotnet\bin\Debug\net6.0\exemplos-dotnet.runtimeconfig.json
+C:\projetos-dio\exemplos-dotnet\bin\Debug\net6.0\exemplos-dotnet.dll
+C:\projetos-dio\exemplos-dotnet\bin\Debug\net6.0\exemplos-dotnet.pdb
+C:\projetos-dio\exemplos-dotnet\obj\Debug\net6.0\exemplos-dotnet.csproj.AssemblyReference.cache
+C:\projetos-dio\exemplos-dotnet\obj\Debug\net6.0\exemplos-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos-dio\exemplos-dotnet\obj\Debug\net6.0\exemplos-dotnet.AssemblyInfoInputs.cache
+C:\projetos-dio\exemplos-dotnet\obj\Debug\net6.0\exemplos-dotnet.AssemblyInfo.cs
+C:\projetos-dio\exemplos-dotnet\obj\Debug\net6.0\exemplos-dotnet.csproj.CoreCompileInputs.cache
+C:\projetos-dio\exemplos-dotnet\obj\Debug\net6.0\exemplos-dotnet.dll
+C:\projetos-dio\exemplos-dotnet\obj\Debug\net6.0\refint\exemplos-dotnet.dll
+C:\projetos-dio\exemplos-dotnet\obj\Debug\net6.0\exemplos-dotnet.pdb
+C:\projetos-dio\exemplos-dotnet\obj\Debug\net6.0\exemplos-dotnet.genruntimeconfig.cache
+C:\projetos-dio\exemplos-dotnet\obj\Debug\net6.0\ref\exemplos-dotnet.dll
